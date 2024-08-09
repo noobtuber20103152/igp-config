@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+jobapplication:
+  message: "Welcome to job application related QA APIs "
+  contactDetails:
+    name: "Chandler Bing - QA Lead"
+    email: "chandler@synergybank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
