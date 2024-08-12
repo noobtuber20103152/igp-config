@@ -1,8 +1,8 @@
 build:
   version: "2.0"
 
-jobapplication:
-  message: "Welcome to job application related QA APIs "
+cards:
+  message: "Welcome to SynergyBank cards related QA APIs "
   contactDetails:
     name: "Chandler Bing - QA Lead"
     email: "chandler@synergybank.com"
